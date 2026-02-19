@@ -1,6 +1,4 @@
-# flutter_project
 
-A new Flutter project
 
 Product Catalog Mobile App (Flutter)
 
