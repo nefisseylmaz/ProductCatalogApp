@@ -1,16 +1,28 @@
 # flutter_project
 
-A new Flutter project.
+A new Flutter project
 
-## Getting Started
+Product Catalog Mobile App (Flutter)
 
-This project is a starting point for a Flutter application.
+This project is a product catalog mobile application developed using Flutter. The application is designed to demonstrate basic mobile app architecture, navigation structure, and UI organization.
 
-A few resources to get you started if this is your first Flutter project:
+Features
+	•	Home page structure
+	•	Category-based product listing (Women / Men / Kids)
+	•	Favorites page
+	•	Basic navigation between screens
+	•	Responsive layout design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Project Status
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project is currently under development. Database integration and dynamic product data management are planned for future updates.
+
+Technologies Used
+	•	Flutter
+	•	Dart
+	•	Stateful widget structure
+	•	Basic UI components and navigation system
+
+Purpose
+
+This project was developed as a learning-focused application to improve mobile development skills and understand Flutter application architecture.
